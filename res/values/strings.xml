@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sublime</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_get_from_bd">GetFromBD</string>
+    <string name="title_activity_bluetooth_conn">BluetoothConn</string>
+    <string name="title_activity_main">Sublime</string>
+    <string name="title_activity_promo_list">PromoList</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="appName">Sublime</string>
+
+</resources>
